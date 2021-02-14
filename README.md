@@ -1,7 +1,7 @@
 # spring-boot-actuator
 
 
-Access Actuators through the URL :
+Access Actuator through the URL :
 http://localhost:8080/actuator
 
 Reponse :
